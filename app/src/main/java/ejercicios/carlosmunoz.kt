@@ -1,8 +1,7 @@
 package ejercicios
 fun main (){
-
-
-    println(esPar(4))
-    println(esPar(3))
+    println(esNumeroPar(4))
+    println(esNumeroPar(3))
+    println(esNumeroPar(9))
 }
-fun esPar(numero:Int) = numero % 2 ==0
+fun esNumeroPar(numero:Int) = numero % 2 ==0

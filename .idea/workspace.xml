@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="343220fb-0c0b-44d9-aff1-41dfbdd442aa" name="Default Changelist" comment="Subida de un nuevo ejercicio">
+    <list default="true" id="343220fb-0c0b-44d9-aff1-41dfbdd442aa" name="Default Changelist" comment="Subida de un nuevo ejercicio (si)">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/ejercicios/alexmedina.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ejercicios/alexmedina.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694484971686</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Subida de un nuevo ejercicio (si)">
+      <created>1694485209054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694485209054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +189,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Subida de un nuevo ejercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subida de un nuevo ejercicio" />
+    <MESSAGE value="Subida de un nuevo ejercicio (si)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subida de un nuevo ejercicio (si)" />
   </component>
 </project>
